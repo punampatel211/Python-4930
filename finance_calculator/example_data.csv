@@ -1,0 +1,4 @@
+# data/example_data.csv
+Type,Principal,Rate,Years,Monthly_Contribution,Initial_Amount
+Loan,10000,5,5,,,
+Savings,,,5,200,5000
